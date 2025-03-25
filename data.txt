@@ -1,0 +1,2 @@
+What is an apple?<EOS>
+An apple is a healthy fruit.<EOS>
