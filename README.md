@@ -60,7 +60,7 @@ Converted predicted token IDs back to words using id_to_token.
 Printed the final output sequence.
 
 
-Key Takeaways from Your Implementation
+Key Takeaways from Implementation
 1. Transformer Type:
 Decoder-Only Transformer (like GPT)
 Uses masked self-attention to prevent peeking at future tokens.
